@@ -9,7 +9,7 @@ This is just a game project created with React using various React hooks.
 - The project is built to be responsive to mobile and desktop devices.
 
 - _Deployment Link_
-  <https://nike-app-landing.netlify.app/>  
+  <https://endgame-assembly-game.netlify.app//>  
 
 ## Technologies
 
