@@ -1,12 +1,15 @@
-# Tenzies Game
+# Assembly: Endgame
 
 ## About The Project
 
-This is just a game of tenzies created with React using various React hooks.
+This is just a game project created with React using various React hooks.
 
 ## Features
 
 - The project is built to be responsive to mobile and desktop devices.
+
+- _Deployment Link_
+  <https://nike-app-landing.netlify.app/>  
 
 ## Technologies
 
